@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Tran Nhat Min</h1>
 <h3 align="center">A passionate full-stack developer bringing ideas to life.</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=A+passionate+full-stack+developer+👨‍💻;Loves+Linux+%26+Open+Source+💡;Coffee+%2B+Code+%3D+❤️;Always+learning+new+things+🚀&repeat=true" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mintrann&label=Profile%20views&color=0e75b6&style=flat" alt="mintrann" /> </p>
 
