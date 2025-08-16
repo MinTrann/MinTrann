@@ -1,15 +1,4 @@
-<p align="center">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 435 50" width="435px" height="50px">
-    <path id="path0">
-      <animate id="d0" attributeName="d" begin="0s;d0.end" dur="6000ms" repeatCount="indefinite" 
-        values="m0,25 h0 ; m0,25 h435 ; m0,25 h435 ; m0,25 h0" keyTimes="0;0.4;0.9;1"/>
-    </path>
-    <text font-family="JetBrains Mono, monospace" fill="#F7F7F7" font-size="35" dominant-baseline="auto" x="0%" text-anchor="start">
-      <textPath xlink:href="#path0">Hi 👋, I'm Tran Nhat Min</textPath>
-    </text>
-  </svg>
-</p>
-<p align="center">
+ <p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=34&duration=2000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Tran+Nhat+Min&repeat=true&cursor=true&cursorChar=%7C" alt="Typing SVG" />
   </a>
